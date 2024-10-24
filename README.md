@@ -1,4 +1,4 @@
-An analysis of social media content performance and audience sentiment to optimize BuzzScale's IPO strategy."
+An analysis of social media content performance and audience sentiment to optimize BuzzScale's IPO strategy
 
 Key components:
 
