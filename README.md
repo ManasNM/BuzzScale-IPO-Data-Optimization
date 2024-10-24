@@ -1,6 +1,4 @@
-# BuzzScale-IPO-Data-Optimization
-This repository contains all materials related to the BuzzScale IPO &amp; Data Optimization project. The goal of this project is to optimize and enhance data processes for BuzzScale, focusing on IPO-related content and social media performance analysis.
-The project involves thorough data cleaning, modeling, and visualization to uncover insights that can support strategic decisions.
+An analysis of social media content performance and audience sentiment to optimize BuzzScale's IPO strategy."
 
 Key components:
 
